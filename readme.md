@@ -21,13 +21,17 @@ Conheça o canal da Comunidade ZDG:
 
 🤑 Garanta sua renda extra explorando todo o poder da API de graça, mesmo que você nao seja programador, clicando no link <a href="https://comunidadezdg.com.br">Comunidade ZDG</a>. Obrigado =)
 
-BOT-ZDG + FRONT + CHATBOT + NOTIFICAÇÃO AUTOMÁTICA
+## BOT-ZDG + FRONT + CHATBOT + NOTIFICAÇÃO AUTOMÁTICA
 
 `sudo su root`
+
 `ncd ~`
+
 `apt update`
-apt upgrade
-curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash –
+
+`apt upgrade`
+
+`curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash –`
 sudo apt-get install -y nodejs
 apt-get install libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev libasound2
 git clone https://github.com/pedroherpeto/zapdasgalaxias.git
