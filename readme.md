@@ -23,9 +23,9 @@ Conheça o canal da Comunidade ZDG:
 
 BOT-ZDG + FRONT + CHATBOT + NOTIFICAÇÃO AUTOMÁTICA
 
-sudo su root
-cd ~
-apt update
+`sudo su root`
+`ncd ~`
+`apt update`
 apt upgrade
 curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash –
 sudo apt-get install -y nodejs
